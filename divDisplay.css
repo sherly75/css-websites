@@ -1,0 +1,30 @@
+span{
+	height: 50px;
+	width: 75px;
+	background: #00ff00;
+	/*display: Try block and inline block; */
+	/*float*/
+
+}
+div{
+	height: 70%;
+	width: 45%;
+	background: #00ffff;
+	display: table-cell;
+	float: left;
+	overflow: scroll;
+	text-align: center;
+	/*display: Try block and inline block; */
+	/*float*/
+
+}
+p{
+	height: 100px;
+	width: 200px;
+	background: #ff00ff;
+	/*display: Try block and inline block; */
+	float:left;
+
+
+
+}
